@@ -1,9 +1,8 @@
 # depslib dependency file v1.0
-1507555112 source:d:\kalinowski pawe³\cwiczenie3\cwiczenie 3\main.cpp
+1509898905 source:c:\c++\cw3\cwiczenie 3\main.cpp
 	<iostream>
-	<fstream>
-	<vector>
 	<string>
-	<stdexcept>
+	<fstream>
 	<sstream>
+	<vector>
 
