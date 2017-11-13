@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1510512505 source:d:\kalinowski pawe³\cwiczenie3\cwiczenie 3 obiekty\cwiczenie 3 obiekty\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
+1510512505 source:g:\cwiczenie 3 obiekty\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
